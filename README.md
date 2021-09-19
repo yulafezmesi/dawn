@@ -1,6 +1,6 @@
 # Dawn
 
-[![Build status](https://github.com/yulafezmesi/dawn/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Shopify/dawn/actions/workflows/ci.yml?query=branch%3Amain)
+[![Build status](https://github.com/yulafezmesi/dawn/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/yulafezmesi/dawn/actions/workflows/ci.yml?query=branch%3Amain)
 
 [Getting started](#getting-started) |
 [Staying up to date with Dawn changes](#staying-up-to-date-with-dawn-changes) |
