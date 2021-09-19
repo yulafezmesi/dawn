@@ -11,7 +11,7 @@ jobs:
         with:
           app_id: ${{ secrets.SHOP_APP_ID }}
           app_password: ${{ secrets.SHOP_APP_PASSWORD }}
-          store: ${{ secrets.SHOP_STORE }}
+          store: mert-certel.myshopify.com
           password: ${{ secrets.SHOP_PASSWORD }}
           lhci_github_token: ${{ secrets.LHCI_GITHUB_TOKEN }}
   theme-check:
