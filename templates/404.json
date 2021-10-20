@@ -2,9 +2,13 @@
   "sections": {
     "main": {
       "type": "main-404"
+    },
+    "1632160777d5d42844": {
+      "type": "collage"
     }
   },
   "order": [
-    "main"
+    "main",
+    "1632160777d5d42844"
   ]
 }
